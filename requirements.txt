@@ -1,5 +1,9 @@
+black==21.12b0
+bokeh==2.4.2
+isort==5.10.1
 jupyterlab==3.2.6
 jupyterlab-vim==0.14.5
+matplotlib==3.5.1
 nbstripout==0.4.0
 numpy==1.20.3
 nbdime==3.1.1
