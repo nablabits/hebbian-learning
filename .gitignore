@@ -1,0 +1,9 @@
+.python-version
+.ipynb_checkpoints/
+__pycache__/
+
+# vim
+*.vim
+*.swp
+tags
+
